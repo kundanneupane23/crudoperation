@@ -1,0 +1,20 @@
+.container{
+    border-style:groove;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    border-radius: 5px;
+}
+.btn2btn{
+    background-color:rgb(202, 77, 77);
+    margin: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+ 
+}
+.btn1btn{
+    margin-left: 80px;
+background-color: rgb(45, 45, 143);
+border-radius: 5px;
+}

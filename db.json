@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "layout": "1",
+      "name": "kundan neupane",
+      "capacity": "10",
+      "status": "",
+      "image": "C:\\fakepath\\movie-icon.png",
+      "id": 2
+    },
+    {
+      "layout": "3",
+      "name": "kundan",
+      "capacity": "20",
+      "status": "",
+      "image": "",
+      "id": 3
+    },
+    {
+      "layout": "1",
+      "name": "kundan",
+      "capacity": "10",
+      "status": "",
+      "image": "",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
